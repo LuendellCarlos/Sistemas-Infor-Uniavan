@@ -24,7 +24,7 @@ int main()
    a = b;
    b = troca;
 
-   printf("\nPrimeiro método: A = %d \t B = %d\n ");
+   printf("\nPrimeiro método: A = %d \t B = %d\n ", a, b);
 
    c = c + d;
    d = c - d;
